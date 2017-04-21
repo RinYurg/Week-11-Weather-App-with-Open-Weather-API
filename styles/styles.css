@@ -1,0 +1,86 @@
+body, html {
+	background-color: #607a55;
+	height: 100%;
+	width: 600px;
+}
+
+#header {
+	margin-top: 30px; 
+}
+
+#city {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #BDCCD4;
+	/*background-color: white;
+	width: 300px;
+	border-radius: 20px;*/
+}
+
+#click {
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	background-color: #333333;
+	color: #F4EB9F;
+	width: 300px;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+h4 {
+	color: #98C5D8;
+	font-family: 'Lobster', cursive;
+	font-size: 55px;	
+	
+}
+
+#temp {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+}
+
+#weather {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	width: 300px;	
+}
+
+#hum {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	width: 300px;
+	
+
+}
+
+#pressure {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+#description {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	
+}
+
+#temp_min {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+#temp_max {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+./*stats {
+	float: left;
+}*/
